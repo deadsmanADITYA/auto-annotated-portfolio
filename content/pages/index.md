@@ -18,7 +18,7 @@ sections:
         label: Download
         altText: ''
         url: >-
-          /https://drive.google.com/drive/folders/1KgeXn-gRuoRN2PHJ0ASI4Lh5wWBrJD31?usp=drive_link
+          https://drive.google.com/drive/folders/1KgeXn-gRuoRN2PHJ0ASI4Lh5wWBrJD31?usp=drive_link
         showIcon: true
         icon: arrowRight
         iconPosition: right
