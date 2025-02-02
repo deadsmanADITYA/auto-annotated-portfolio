@@ -13,7 +13,8 @@
                 "label": "Telegram",
                 "url": "https://t.me/Learning_HUB_11th",
                 "altText": "Telegram",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "send"
             },
             {
                 "type": "Link",
