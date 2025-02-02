@@ -14,7 +14,7 @@ sections:
     title: Cengage for Chemistry
     subtitle: >-
       BOOK Name - Cengage Chemistry ;        Subject - Chemistry  ;    Class -
-      11th
+      11th + 12th
     actions:
       - type: Button
         label: Hire me
