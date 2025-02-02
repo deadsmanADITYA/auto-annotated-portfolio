@@ -12,9 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Cengage for Chemistry
-    subtitle: >-
-      BOOK Name - Cengage Chemistry ;        Subject - Chemistry  ;    Class -
-      11th + 12th
+    subtitle: "\"Cengage Chemistry\" refers to\_a series of chemistry textbooks published by Cengage Learning, primarily designed for students preparing for competitive exams like JEE (Joint Entrance Examination) in India, focusing on comprehensive theory, in-depth explanations, and a large collection of practice problems to strengthen conceptual understanding and problem-solving skills in chemistr"
     actions:
       - type: Button
         label: Hire me
