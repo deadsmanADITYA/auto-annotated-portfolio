@@ -34,7 +34,7 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
+                "altText": "FaceBook",
                 "label": "FaceBook",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
