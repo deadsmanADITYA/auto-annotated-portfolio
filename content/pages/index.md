@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Cengage for Chemistry
-    subtitle: ''
+    subtitle: BOOK Name - Cengage Chemistry
     actions:
       - type: Button
         label: Hire me
