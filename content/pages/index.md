@@ -12,10 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Cengage for Chemistry
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "\"Cengage Chemistry\" refers to\_a series of chemistry textbooks published by Cengage Learning, primarily aimed at students preparing for competitive exams like JEE (Joint Entrance Examination) in India, focusing on comprehensive coverage of chemistry concepts with a large number of practice problems and solved examples to help students develop a strong understanding of the subject and excel in exams."
     actions:
       - type: Button
         label: Hire me
