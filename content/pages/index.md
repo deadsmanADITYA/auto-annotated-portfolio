@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Learning HUB\
+title: Learning HUB
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
