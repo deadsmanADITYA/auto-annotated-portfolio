@@ -15,7 +15,7 @@ sections:
     subtitle: "\"Cengage Chemistry\" refers to\_a series of chemistry textbooks published by Cengage Learning, primarily designed for students preparing for competitive exams like JEE (Joint Entrance Examination) in India, focusing on comprehensive theory, in-depth explanations, and a large collection of practice problems to strengthen conceptual understanding and problem-solving skills in chemistry."
     actions:
       - type: Button
-        label: Hire me
+        label: Download
         altText: ''
         url: /
         showIcon: true
