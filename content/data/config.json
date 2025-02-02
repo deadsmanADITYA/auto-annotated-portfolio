@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Telegram",
-                "url": "/info"
+                "url": "/info",
+                "altText": "Telegram"
             },
             {
                 "type": "Link",
